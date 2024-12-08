@@ -3,13 +3,19 @@ This is Vaitican Shopping Store. I am make Following Section in this Website.
 
 + **Home**
 
-+ **About Us**
++ **Casual Shirts**
 
-+ **Doctors**
++ **Summer 24**
 
-+ **Services**
++ **T-Shirts**
 
-+ **Blog**
++ **Formal Shirt**
+  
++ **Winter 23**
+  
++ **Help**
+  
++ **Contact**
 
 Watch more Website Template in my Website.
 

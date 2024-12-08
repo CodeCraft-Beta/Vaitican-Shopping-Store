@@ -13,9 +13,9 @@ This is Vaitican Shopping Store. I am make Following Section in this Website.
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/HealthCareWebsite/
+**Live Demo** - https://codecraft-beta.github.io/Vaitican-Shopping-Store/
 
-**Website View** - https://designcraft.odoo.com/health-care-website
+**Website View** - https://designcraft.odoo.com/vaitican-shopping-website
 
 # CodeCraft-Beta
 
